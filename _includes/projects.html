@@ -1,4 +1,10 @@
+{% if project.half %}
+<div class="grid-item-half">
+{% elsif project.third %}
+<div class="grid-item-third">
+{% else %}
 <div class="grid-item">
+{% endif %}
   {% if project.redirect %}
   <a href="{{ project.redirect }}" target="_blank">
   {% else %}

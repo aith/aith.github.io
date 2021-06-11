@@ -185,7 +185,10 @@ a, table.table a {
 .social {
   text-align: center;
   .contact-icons {
-    font-size: 4rem;
+    font-size: 1.3rem;  // change icon size
+    padding-top: 4.6px;
+    padding-right: 10px;
+    padding-left: 15px;
     a {
       i::before {
         color: var(--global-text-color);
@@ -329,7 +332,17 @@ footer.sticky-bottom {
   }
 
   .grid-item {
-    width: 250px;
+    width: 770px;
+    margin-bottom: 10px;
+  }
+
+  .grid-item-half {
+    width: 335px;
+    margin-bottom: 10px;
+  }
+
+  .grid-item-third {
+    width: 256px;
     margin-bottom: 10px;
   }
 

@@ -1,10 +1,13 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
-img: /assets/img/3.jpg
-importance: 2
-category: work
+title: Bomblebees
+description: rts rnstrn tsn rts rnstrn tsn rts rnstrn tsn rts rnstrn tsn rts rnstrn tsn rts rnstrn tsn rts rnstrn tsn rts rnstrn tsn rts rnstrn tsn rts rnstrn tsn rts rnstrn tsn rts rnstrn tsn rts rnstrn tsn rts rnstrn tsn rts rnstrn tsn rts rnstrn tsn rts rnstrn tsn rts rnstrn tsn rts rnstrn tsn rts rnstrn tsn rts rnstrn tsn rts rnstrn tsn rts rnstrn tsn rts rnstrn tsn rts rnstrn tsn rts rnstrn tsn rts rnstrn tsn rts rnstrn tsn rts rnstrn tsn rts rnstrn tsn rts rnstrn tsn rts rnstrn tsn rts rnstrn tsn rts rnstrn tsn rts rnstrn tsn rts rnstrn tsn 
+img: /assets/img/test.gif
+importance: 1000
+# redirect: https://github.com/alshedivat/al-folio/issues
+# github: https://github.com/alshedivat/al-folio/
+category: fun
+# url:
 ---
 
 Every project has a beautiful feature showcase page.
