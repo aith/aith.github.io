@@ -8,9 +8,7 @@ importance: 1000
 redirect: https://gameshowcase.ucsc.edu/project/bomblebees/
 # github: https://github.com/alshedivat/al-folio/
 category: code
-# threefourths: true
-quarter: true
-# threefourths: true
+threefourths: true
 # url:
 ---
 

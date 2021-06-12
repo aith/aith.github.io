@@ -299,7 +299,13 @@ footer.sticky-bottom {
 }
 
 
-$gutter: 8 * 1px;
+/* We must use integers rather than % to get the browser window size-responsive behaviour */
+$gutter_num: 8;
+$gutter: $gutter_num * 1px;
+$grid_size: 900; // NOTE: this is not in px yet. Make sure this is the same value as the max_width in the root's .yml file
+$num_col: 4; // The amount of atomic blocks you want per row
+$col_size: $grid_size / $num_col - $gutter_num/2;
+$col_size2: $col_size * 2 + 0px;
 
 // Projects
 
@@ -335,7 +341,6 @@ $gutter: 8 * 1px;
   }
 
   .grid {
-    // width:100%;
     margin: -$gutter;
   }
 
@@ -346,10 +351,10 @@ $gutter: 8 * 1px;
     clear: both;
   }
 
+  /* This defines the smallest unit of size for the blocks  */
   .grid-sizer,
   .grid-item {
-    // width: 25%;
-    width: 25%;
+    width: $col_size * 1px;  /* This needs to be the smallest unit of size for the block */
   }
     
   .grid-item {
@@ -364,12 +369,10 @@ $gutter: 8 * 1px;
   }
 
   // Basically these are modifiers for grid-item. Just create a div with the ones you want
-  .grid-item--w25 {
-    width: 25%;
-  }
-  .grid-item--w50 {width: 50%;}
-  .grid-item--w75 {width: 75%;}
-  .grid-item--w100 {width: 100%;}
+  .grid-item--w25 { width: #{$col_size * 1}px; }
+  .grid-item--w50 { width: #{$col_size * 2}px; }
+  .grid-item--w75 { width: #{$col_size * 3}px; }
+  .grid-item--w100{ width: #{$col_size * 4}px; }
 
   h2.category {
     color: $grey-color-light;
