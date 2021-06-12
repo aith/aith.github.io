@@ -299,6 +299,8 @@ footer.sticky-bottom {
 }
 
 
+$gutter: 8 * 1px;
+
 // Projects
 
 .projects {
@@ -311,6 +313,7 @@ footer.sticky-bottom {
       }
     }
   }
+
 
   .card {
     img {
@@ -331,20 +334,41 @@ footer.sticky-bottom {
     }
   }
 
+  .grid {
+    // width:100%;
+    margin: -$gutter;
+  }
+
+  /* clearfix */
+  .grid:after {
+    content: '';
+    display: block;
+    clear: both;
+  }
+
+  .grid-sizer,
   .grid-item {
-    width: 770px;
-    margin-bottom: 10px;
+    // width: 25%;
+    width: 25%;
+  }
+    
+  .grid-item {
+    padding: $gutter;
+    margin-bottom: 0px;
+    float: left;
+    // background: #D26;
+    // border: 2px solid #333;
+    // border-color: hsla(0, 0%, 0%, 0.5);
+    border-radius: 5px;
   }
 
-  .grid-item-half {
-    width: 335px;
-    margin-bottom: 10px;
+  // Basically these are modifiers for grid-item. Just create a div with the ones you want
+  .grid-item--w25 {
+    width: 25%;
   }
-
-  .grid-item-third {
-    width: 256px;
-    margin-bottom: 10px;
-  }
+  .grid-item--w50 {width: 50%;}
+  .grid-item--w75 {width: 75%;}
+  .grid-item--w100 {width: 100%;}
 
   h2.category {
     color: $grey-color-light;

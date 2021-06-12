@@ -1,9 +1,11 @@
 {% if project.half %}
-<div class="grid-item-half">
-{% elsif project.third %}
-<div class="grid-item-third">
-{% else %}
-<div class="grid-item">
+<div class="grid-item grid-item--w50">
+{% elsif project.threefourths %}
+<div class="grid-item grid-item--w75">
+{% elsif project.full %}
+<div class="grid-item grid-item--w100">
+{% else project.quarter %}
+<div class="grid-item grid-item--w25">
 {% endif %}
   {% if project.redirect %}
   <a href="{{ project.redirect }}" target="_blank">
@@ -11,11 +13,9 @@
   <a href="{{ project.url | relative_url }}">
   {% endif %}
     <div class="card hoverable">
-      {% if project.img %}
       <img src="{{ project.img | relative_url }}" alt="project thumbnail">
-      {% endif %}
       <div class="card-body">
-        <h2 class="card-title text-lowercase">{{ project.title }}</h2>
+        <h2 class="card-title">{{ project.title }}</h2>
         <p class="card-text">{{ project.description }}</p>
         <div class="row ml-1 mr-1 p-0">
           {% if project.github %}

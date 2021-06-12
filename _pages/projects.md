@@ -4,7 +4,7 @@ title: projects
 permalink: /projects/
 description: A growing collection of your cool projects.
 nav: true
-display_categories: [work, fun]
+display_categories: [code]
 # horizontal: true
 ---
 <div class="projects">
@@ -26,6 +26,8 @@ display_categories: [work, fun]
         </div>
       {% else %}
         <div class="grid">
+          <div class="grid-sizer"></div>
+          <div class="gutter-sizer"></div>
           {% for project in sorted_projects %}
             {% include projects.html %}
           {% endfor %}
@@ -46,13 +48,14 @@ display_categories: [work, fun]
         </div>
       </div>
     {% else %}
-      <div class="grid">
+      <div class="grid" style="display:grid; grid-auto-flow: dense; grid-template-columns: align-self: start;">
         {% for project in sorted_projects %}
           {% include projects.html %}
         {% endfor %}
       </div>
     {% endif %}
-
   {% endif %}
+  
+  And much more on my [Github](https://github.com/aith/)!
 
 </div>
