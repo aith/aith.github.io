@@ -27,7 +27,6 @@ display_categories: [code]
       {% else %}
         <div class="grid">
           <div class="grid-sizer"></div>
-          <div class="gutter-sizer"></div>
           {% for project in sorted_projects %}
             {% include projects.html %}
           {% endfor %}
