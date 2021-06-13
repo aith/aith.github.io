@@ -6,6 +6,6 @@ img: /assets/img/test.gif
 importance: 1500
 redirect: https://github.com/aith/agentcraft
 category: code
-quarter: true
+threefourths: true
 ---
 

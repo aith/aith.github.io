@@ -321,18 +321,23 @@ $col_size2: $col_size * 2 + 0px;
   }
 
 
-  .card {
+  .card {  /* Bootstrap cards */
     img {
       width: 100%;
     }
     .card-title {
       color: $black-color;
+      font-size: 18px;
+      margin-bottom: 1px;
     }
+    .card-body {
+      margin-bottom: -#{$gutter_num/2}px;  /* Reduce size of card body */
+    }
+    
   }
 
   .card-item {
     width: auto;
-    margin-bottom: 10px;
 
     .row {
       display: flex;
@@ -359,8 +364,8 @@ $col_size2: $col_size * 2 + 0px;
     
   .grid-item {
     padding: $gutter;
-    margin-bottom: 0px;
     float: left;
+    margin-bottom: -#{$gutter_num * 2}px;  /* Reduce gap from card's bottom to the below card's top */
     // background: #D26;
     // border: 2px solid #333;
     // border-color: hsla(0, 0%, 0%, 0.5);
