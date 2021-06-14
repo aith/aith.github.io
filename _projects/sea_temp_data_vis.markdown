@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Visualization of Sea Surface Temperature Projections 
-description: A interactive visualization of Sea Surface Temperature with a collaborator's research dataset! 
-img: /assets/img/test.gif
-importance: 2000
-redirect: 
+title: Sea Surface Temperature Projection Datavis
+description: A interactive vis of Sea Surface Temp using collaborator's dataset! 
+img: /assets/img/sst.png
+importance: 1900
+redirect: https://aith.github.io/CA-temperature-projections/
 category: code
-half: true
+fourth: true
 ---
 

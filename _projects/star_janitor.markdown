@@ -1,10 +1,10 @@
 ---
 layout: page
 title: No Leaning!
-description: A Katamari-styled orbit-based webgame about cleaning up the cosmos! Created by me and two artists!
-img: /assets/img/test.gif
+description: A rotation-based webgame about cleaning the cosmos!  
+img: /assets/img/space_janitor_supercut.gif
 importance: 2000
-redirect: 
+redirect: https://github.com/thisIsTeamSwag/space-janitor-game
 category: code
 half: true
 # url:

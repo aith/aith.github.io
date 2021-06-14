@@ -15,7 +15,7 @@ news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 ---
 
-I'm newly a Bachelor of Computer Science (specializing in Computer Game Applications) from University of California, Santa Cruz!  
+As of 2021, I'm a University of California, Santa Cruz B.S. of Computer Science: Computer Game Design!  
 
 My main interest is creating and researching [generators](https://galaxykate0.tumblr.com/post/139774965871/so-you-want-to-build-a-generator) that improve the our lives. By extension, my work explores generative algorithms and AI.  
 

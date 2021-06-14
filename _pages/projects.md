@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Selected projects. You can find most of my work on <a href="https://github.com/aith/"><u>Github</u></a>!
 nav: true
 display_categories: [code]
 # horizontal: true
@@ -55,6 +55,7 @@ display_categories: [code]
     {% endif %}
   {% endif %}
   
-  And much more on my [Github](https://github.com/aith/)!
 
 </div>
+
+
