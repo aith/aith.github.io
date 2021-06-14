@@ -1,5 +1,6 @@
 {% if project.half %}
-<div class="grid-item grid-item--w50">
+  <div class="grid-item grid-item--w50">
+  {% assign size = "grid-item--w50" %}
 {% elsif project.threefourths %}
 <div class="grid-item grid-item--w75">
 {% elsif project.full %}
@@ -13,7 +14,19 @@
   <a href="{{ project.url | relative_url }}">
   {% endif %}
     <div class="card hoverable">
-      <img src="{{ project.img | relative_url }}" alt="{{ project.title }} thumbnail">
+      {% if project.webm %}
+        <video width="auto" autoplay loop muted disablepictureinpicture autopictureinpicture="false">
+          <source src="{{ project.webm | relative_url }}" type="video/webm">
+        -Video of {{ project.title }}-
+        </video>
+      {% elsif project.vid %}
+        <video width="auto" loop muted>
+          <source src="{{ project.vid | relative_url }}" type="video/mp4" autoplay="true">
+        -Video of {{ project.title }}-
+        </video>
+      {% elsif project.img %}
+        <img src="{{ project.img | relative_url }}" alt="{{ project.title }} thumbnail">
+      {% endif %}
       <div class="card-body">
         <h2 class="card-title">{{ project.title }}</h2>
         <p class="card-text">{{ project.description }}</p>
