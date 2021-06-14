@@ -21,6 +21,6 @@ My main interest is creating and researching [generators](https://galaxykate0.tu
 
 I want to contribute to:
 + Solving human health
-+ Creating media that could not be done by humans alone
++ Creating things that could not be done by humans alone
 
 Let's make the world a better place!

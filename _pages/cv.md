@@ -1,12 +1,11 @@
 ---
 layout: page
-permalink: /cv/
-title: CV
-description: B.S. Computer Science & Computer Game Design at University of California, Santa Cruz
-years: [1956, 1950, 1935, 1905]
+permalink: /publications/
+title: publications
+description: 
+years: [ Pipelining ]
 nav: true
 ---
-
 <div class="publications">
 
 {% for y in page.years %}
