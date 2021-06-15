@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Star Janitor
+title: No Leaning!
 description: A rotation-based webgame about cleaning the cosmos!  
 img: /assets/img/space_janitor_supercut.gif
 importance: 2000
