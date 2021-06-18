@@ -2,7 +2,7 @@
 layout: cv
 title: cv
 permalink: /cv/
-description: Selected projects. You can find most of my work on <a href="https://github.com/aith/"><u>Github</u></a>!
+description: aith's cv
 nav: true
 display_categories: [code]
 years: [2021]
