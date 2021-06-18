@@ -36,7 +36,7 @@ max_width: 900px
 # -----------------------------------------------------------------------------
 # Display links to the page with a preview object on social media.
 serve_og_meta: true # Include Open Graph meta tags in the HTML head
-og_image: onset_insomnia.png # The site-wide (default for all links) Open Graph preview image
+og_image: https://avatars.githubusercontent.com/u/62635784?v=4 # The site-wide (default for all links) Open Graph preview image
 
 # -----------------------------------------------------------------------------
 # Social integration
