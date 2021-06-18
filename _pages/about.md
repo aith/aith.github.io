@@ -13,6 +13,7 @@ profile:
 
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
+og_image: onset_insomnia.png
 ---
 
 As of 2021, I'm a University of California, Santa Cruz B.S. of Computer Science: Computer Game Design!  

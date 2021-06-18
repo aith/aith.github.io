@@ -6,8 +6,8 @@
 :root {
   --main_shift: 25%;
   --desc_shift: 27%;
-  --title_upshift: 0.15em;
-  --body_upshift: 0.3em;
+  --title_upshift: 0.0em;
+  --body_upshift: 0.15em;
 }
 
 
@@ -82,9 +82,10 @@ p {
 /* Years */
 code {  
 	font: normal normal;
-	font-size: 90%;
+	font-size: 100%;
 	font-family: Menlo, monospace, sans-serif;
 	color: #aaa;
+	margin-top: 0.16em;
 }
 /* Years, adjust from the block */
 p code {
