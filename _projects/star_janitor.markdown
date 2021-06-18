@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Star Janitor
-description: A rotation-based webgame about cleaning the cosmos! Sole Designer & Programmer with team of 3.  
+description: A rotation-based webgame about cleaning the cosmos!  
 img: /assets/img/space_janitor_supercut.gif
 importance: 2000
 redirect: https://github.com/thisIsTeamSwag/space-janitor-game

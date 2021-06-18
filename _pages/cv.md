@@ -6,6 +6,7 @@ description: Selected projects. You can find most of my work on <a href="https:/
 nav: true
 display_categories: [code]
 years: [2021]
+og_image: https://cpb-us-e1.wpmucdn.com/sites.ucsc.edu/dist/5/1049/files/2020/05/vlcsnap-2021-06-07-11h11m16s845.png
 ---
 # [Ari (aith) Iramanesh](https://aith.github.io)
 Software Engineer

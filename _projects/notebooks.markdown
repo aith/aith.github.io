@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Signal Processing & ML Projects
-description: Jupyter notebooks on [DSP, NLP, ASR]! Solo study.
+description: Jupyter notebooks on [DSP, NLP, ASR]! 
 img: /assets/img/robot.png
 importance: 2000
 category: code

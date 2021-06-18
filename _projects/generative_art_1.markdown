@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Generative Design Collection
-description: 20+ generative code projects exploring various algorithms! Solo work.
+description: 20+ generative code projects exploring various algorithms! 
 webm: /assets/img/generative_supercut_1.webm
 importance: 2000
 redirect: https://aith.github.io/generative/

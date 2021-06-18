@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Bomblebees
-description: An online, competitive tile-matching Bomber game! Lead Programmer with team of 6.
+description: An online, competitive tile-matching Bomber game!
 # vid: /assets/img/bomblebees_supercut_1.mp4
 webm: /assets/img/bomblebees_supercut.webm
 importance: 1000

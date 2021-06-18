@@ -1,7 +1,7 @@
 ---
 layout: page
 title: No Leaning!
-description: An web-based endless runner with a *twist*! Sole Designer & Programmer with team of 3.  
+description: An web-based endless runner with a *twist*!  
 img: /assets/img/no_leaning_supercut.gif
 importance: 2500
 redirect: https://github.com/thisIsTeamSwag/no-leaning-game
