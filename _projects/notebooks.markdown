@@ -1,11 +1,19 @@
 ---
 layout: page
 title: Signal Processing & ML Projects
-description: Jupyter notebooks on [DSP, NLP, ASR]!
+description: Jupyter notebooks on [DSP, NLP, ASR]! Solo study.
 img: /assets/img/robot.png
 importance: 2000
 category: code
 fourth: true
+
+
+on_cv: true
+year: 2021
+role: Solo
+cv_desc: |
+    • Researched and Implemented Signal Processing feature extraction & analysis, Genre Classification, and Sonification using public datasets from Kaggle using Python  
+    • Researched, and taught Automatic Speech Recognition to peers using Google Colab notebook
 ---
 
 ## Signal Processing-adjacent Notebooks!
