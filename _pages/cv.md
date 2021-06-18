@@ -26,13 +26,14 @@ Software Engineer experienced with AI, Procedural Content Generation, Simulation
 
 ## Technical Skills
 <div id="blurb">
-Python, C++, C#, JS, Rust, Git, Linux, Bash, Concurrency, Jupyter, ML, Generative Algorithms, Unity, OS
+Python, C++, C#, JS, Rust, Git, Linux, Bash, Concurrency, Jupyter, ML, Generative Algorithms, Unity, OS, Computer Architecture, GPU Programming
 </div>
 
 ## Education
 
 `2017-21`
-####  B.S. of Computer Science, Computer Game Design - _University of California, Santa Cruz_ - GPA 3.8 - _Dean's Honors_  
+<div id="blurb"> B.S. of Computer Science, Computer Game Design - University of California, Santa Cruz - GPA 3.8 - Dean's Honors  
+</div>
 
 ## Projects <a href="{{ site.baseurl }}{% link _pages/projects.md %} "> <i class="fa fa-link" aria-hidden="true"></i> </a>
 
