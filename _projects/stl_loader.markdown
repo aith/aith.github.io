@@ -10,10 +10,8 @@ fourth: true
 
 on_cv: true
 year: 2021
-role: Solo
+role: Graphics Programmer
 cv_desc: |
-    • Researched and Implemented Signal Processing feature extraction & analysis, Genre Classification, and Sonification using public datasets from Kaggle using Python  
-    • Researched, and taught Automatic Speech Recognition to peers using Google Colab notebook
-
+    • Implemented a web-based .STL file loader and generated 3D-printing support meshes using Three.js
 ---
 

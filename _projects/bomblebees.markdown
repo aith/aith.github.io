@@ -15,9 +15,9 @@ on_cv: true
 year: 2020-21
 role: Lead Programmer, Systems & Gameplay Programmer
 cv_desc: |
-    • Implemented Online Competitive Multiplayer Gameplay using Unity and C#  
-    • Programmed Networked Core Gameplay System, Player Mechanics, Resources, Combat System, Level Design, States  
-    • Coordinated with team of 6 to present a Professional, Fun, and in-scope game to university department  
+    An Online Competitive Multiplayer Gameplay using Unity and C#  
+    • Implemented Networked core Gameplay System, Player Mechanics, Resources, Combat System, Level Design, States  
+    • Coordinated with team of 6 to present a professional, fun, and in-scope game to university department  
 
 ---
 

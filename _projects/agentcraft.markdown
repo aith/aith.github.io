@@ -9,7 +9,7 @@ category: code
 threefourths: true
 # half: true
 
-on_cv: true
+on_cv: false 
 year: 2021
 role: Independent Researcher, Sole Developer
 cv_desc: |

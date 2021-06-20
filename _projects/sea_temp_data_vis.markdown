@@ -8,7 +8,7 @@ redirect: https://aith.github.io/CA-temperature-projections/
 category: code
 fourth: true
 
-on_cv: true
+on_cv: false
 year: 2021
 role: Lead Programmer, Co-designer
 cv_desc: |

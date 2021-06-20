@@ -75,7 +75,7 @@ p {
 	left: var(--desc_shift);  /* 28 -> 2 */
 	/* margin-bottom: 0.2em; */
 	margin-right: 0;
-	width: 60%;
+	width: 58%;
 	bottom: var(--body_upshift);
 }
 
