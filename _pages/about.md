@@ -19,8 +19,8 @@ As of 2021, I'm a University of California, Santa Cruz B.S. of Computer Science:
 
 My main interest is creating and researching [generators](https://galaxykate0.tumblr.com/post/139774965871/so-you-want-to-build-a-generator) that improve the our lives. By extension, my work explores generative algorithms and AI.  
 
-I want to contribute to:
+With AI I want to:
 + Solving human health
-+ Creating things that could not be done by humans alone
++ Create games that were previously impossible
 
 Let's make the world a better place!
