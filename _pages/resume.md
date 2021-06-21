@@ -11,8 +11,6 @@ og_image: https://cpb-us-e1.wpmucdn.com/sites.ucsc.edu/dist/5/1049/files/2020/05
 # [Ari Iramanesh](https://aith.github.io)
 
 <div id="webaddress">
-(408)-508-8830 
-|
 <a href="mailto:{{ site.email }}">{{ site.email }}</a>
 |
 <i class="fa fa-github"></i> <a href="http://github.com/{{ site.github_username}}">{{ site.github_username}}</a>
