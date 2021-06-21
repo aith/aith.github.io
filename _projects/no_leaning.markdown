@@ -7,10 +7,11 @@ importance: 2500
 redirect: https://github.com/thisIsTeamSwag/no-leaning-game
 category: code
 half: true
-# quarter: true
-# url:
 
+on_projects: true
+on_resume: false
 on_cv: true
+
 year: 2020
 role: Lead Designer, Lead Programmer
 cv_desc: |

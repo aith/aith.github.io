@@ -8,7 +8,10 @@ redirect: https://github.com/aith/my-nix-dotfiles
 category: code
 fourth: true
 
+on_projects: true
+on_resume: false
 on_cv: false
+
 year: 2021
 role: 
 cv_desc: |

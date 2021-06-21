@@ -28,7 +28,9 @@ og_image: https://cpb-us-e1.wpmucdn.com/sites.ucsc.edu/dist/5/1049/files/2020/05
         <div class="grid">
           <div class="grid-sizer"></div>
           {% for project in sorted_projects %}
-            {% include projects.html %}
+            {% if project.on_projects %}
+              {% include projects.html %}
+            {% endif %}
           {% endfor %}
         </div>
       {% endif %}

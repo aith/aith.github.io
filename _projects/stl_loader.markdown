@@ -8,7 +8,10 @@ redirect: https://glitch.com/edit/#!/stl-editor?path=README.md%3A1%3A0
 category: code
 fourth: true
 
+on_projects: true
+on_resume: false
 on_cv: true
+
 year: 2021
 role: Graphics Programmer
 cv_desc: |

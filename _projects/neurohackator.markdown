@@ -8,7 +8,10 @@ redirect: https://github.com/christoukmaji/NeuroHackaTOR
 category: code
 fourth: true
 
+on_projects: true
+on_resume: false
 on_cv: true
+
 year: 2021
 role: Lead Hardware Spec., Co-designer, Graph Creator
 cv_desc: |

@@ -8,12 +8,16 @@ redirect: https://aith.github.io/generative/
 half: true
 category: code
 
+on_projects: true
+on_resume: true
 on_cv: true
+
 year: 2021
-role: Solo
+role: 
 cv_desc: |
-    • Quickly designed, prototyped 20+ interactive web-based Algorithmic art, 1 per day, in p5.js  
-    • Implemented pieces using Graphs, Markov Chains, AI Pathfinding, Noise Functions, Subdivision algorithms, Linear Algebra, Wang Tiles + more using JS, CSS, and HTML
+    • Implemented 20+ research and algorithms including Graphs, Markov Chains, AI Pathfinding, Noise Functions, Subdivision algorithms, Linear Algebra, Wang Tiles + more using JS/CSS/HTML  
+    • Presented to 40+ peers and donated to Class Showcase & Art Gallery
+
     
 ---
 

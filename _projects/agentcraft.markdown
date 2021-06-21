@@ -7,9 +7,11 @@ importance: 1500
 redirect: https://github.com/aith/agentcraft
 category: code
 threefourths: true
-# half: true
 
+on_projects: true
+on_resume: false
 on_cv: false 
+
 year: 2021
 role: Independent Researcher, Sole Developer
 cv_desc: |

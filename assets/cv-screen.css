@@ -150,6 +150,11 @@ h1+p {
 	margin-left: 25%;
 }
 
+#bold {
+	font-style: bold;
+
+}
+
 h2 {
 	font-size: 1.1em;
 	/* color: #a00; */

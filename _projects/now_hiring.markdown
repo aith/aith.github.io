@@ -8,9 +8,11 @@ redirect: https://www.dropbox.com/s/0y7cu4j02u9sg6i/Now-Hiring-Printable.pdf?dl=
 # github: https://github.com/alshedivat/al-folio/
 category: code
 half: true
-# url:
 
+on_projects: true
+on_resume: false
 on_cv: true
+
 year: 2019
 role: Solo Designer, Artist
 cv_desc: |
