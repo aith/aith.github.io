@@ -49,11 +49,10 @@ Designed and developed Agentcraft, a _Complex Social AI Agent Simulation & Proce
 • With the guidance of Computationtal Media advisor, implemented Data Vis in JS/HTML/CSS/Vega Lite  
 • Presented DataVis to a Virtual Reality Mozilla Hub to 20+ scientists and students
 
-<!-- ## Publications -->
-
-<!-- {% for y in page.years %} -->
-<!-- {% bibliography -f papers -q @*[selected=true]* --template  <p><code>{{entry.year}}</code><h4><a href="https://aith.github.io{{ entry.html  }}">{{entry.title}}</a></h4><h4>{{entry.author}}</h4></p>%} -->
-<!-- {% endfor %} -->
+## Publications
+{% for y in page.years %}
+{% bibliography -f papers -q @*[selected=true]* --template  <p><code>{{entry.year}}</code><h4><a href="https://aith.github.io{{ entry.html  }}">{{entry.title}}</a></h4><h4>{{entry.author}}</h4></p>%}
+{% endfor %}
 
 
 ## Experience <a href="{{ site.baseurl }}{% link _pages/projects.md %} "> <i class="fa fa-link" aria-hidden="true"></i> </a>
