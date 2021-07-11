@@ -34,7 +34,7 @@ Software Engineer
 
 
 ## Skills
-#### Fluent in Python, C++, C#, JS, Rust, Git, Linux, Exceptional grasp on many programming concepts
+#### Fluent in C++, Python, C#, JS, Rust, Git, Linux, Exceptional grasp on many programming concepts
 #### Excellent Verbal and Written Communication, Leadership, & Presentation
 
 ## Undergraduate Research
