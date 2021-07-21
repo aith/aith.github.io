@@ -27,7 +27,7 @@ og_image: https://cpb-us-e1.wpmucdn.com/sites.ucsc.edu/dist/5/1049/files/2020/05
 #### _{{ site.undergrad_major}}_ 
 #### {{ site.undergrad_qualities }}
 #### _Relevant Coursework: Computer Architecture, Systems, Algorithms, Parallel Programming, Graphics_
-#### _Linear Algebra, Vector Calculus, Computability_
+#### _Linear Algebra, Vector Calculus, Computability, Networking_
 
 
 ## Skills
