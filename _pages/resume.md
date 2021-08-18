@@ -75,9 +75,9 @@ og_image: https://cpb-us-e1.wpmucdn.com/sites.ucsc.edu/dist/5/1049/files/2020/05
 ## Undergraduate Research
 `2021`
 #### __UCSC Expressive Intelligence Lab - [AgentCraft Developer](https://github.com/aith/agentcraft)__
-Designed and developed Agentcraft, a _Complex Social AI Agent Simulation & Procedural Settlement Generator_ in 3 months and submitted to Generative Design in Minecraft 2021 Competition against 20+ submissions.  
-• Executes AI Pathfinding, Procedurally Generated Historical Timeline, Schematic File Format and Parser, Realistic Road Generation, HTTP Communication, all under Time constraint of 10 minutes over 1,000,000 blocks using Full Lazy Loading to improve performance 10x   
-• Wrote formal publication with advisor (currently in review).  
+Designed and developed Agentcraft, a _Complex Social AI Agent Simulation & Procedural Settlement Generator_ in 3 months and placed 2nd in Generative Design in Minecraft 2021 Competition against 20+ submissions held by held by AI professors.  
+• Executes AI Pathfinding, Procedurally Generated Historical Timeline, Schematic File Format and Parser, Realistic Road Generation, HTTP Communication, all under Time constraint of 10 minutes over 256,000,000 blocks using Full Lazy Loading to improve performance 100x   
+• Wrote publication with advisor, submitted to Experimental AI & Games journal   
 `2021`
 #### __UCSC OpenLab - [Sea Surface Temp. Data Vis Developer](https://aith.github.io/CA-temperature-projections/)__
 • Collaborated with Marine Scientists to design readable Web-based Data Vis using 3 distinct & new datasets with 1000s of features  
